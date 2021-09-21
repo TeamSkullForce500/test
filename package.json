@@ -1,0 +1,12 @@
+{
+  "name": "nombre",
+  "version": "0.0.0",
+  "description": "",
+  "main": "sm330.js",
+  "scripts": {
+  "start": "sm330.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
