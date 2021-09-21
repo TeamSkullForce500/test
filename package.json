@@ -1,5 +1,5 @@
 {
-  "name": "nombre",
+  "name": "test",
   "version": "0.0.0",
   "description": "",
   "main": "sm330.js",
@@ -7,6 +7,6 @@
   "start": "sm330.js"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^3.4.1"
+    "@adiwajshing/baileys": "^3.5.0"
   }
 }
